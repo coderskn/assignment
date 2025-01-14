@@ -1,0 +1,84 @@
+/*------------- Fonts Family ------------- */
+
+.fira-sans-thin {
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.fira-sans-extralight {
+  font-family: "Fira Sans", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.fira-sans-light {
+  font-family: "Fira Sans", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-sans-medium {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fira-sans-semibold {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-sans-bold {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.fira-sans-extrabold {
+  font-family: "Fira Sans", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* --------------------------------------- */
+
+
+
+
+/*  Header ,Nav and Button Style */
+
+.header {
+  background-color: #f5f5f5;
+  justify-content: center;
+  padding: 24px 160px 24px 160px;
+}
+
+.navbar {
+  display: flex;
+  background-color: #f5f5f5;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.signin-btn {
+  font-size: 18px;
+  color: #006A50;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px;
+  border-style: solid;
+  border-color: #006A50;
+}
+
+/* --------------------------------------- */
+
