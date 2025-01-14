@@ -186,7 +186,7 @@ main {
 
 /* Pillar Section Close */
 
-/* Vission Section */
+/* Vission Section Start */
 
 .vission-sec {
   display: flex;
@@ -279,9 +279,9 @@ main {
 }
 
 
-/* -------------- */
+ /* Vission Section Close */
 
-
+ /* Yunus Section Start */
 .yunus-card-sec {
   display: flex;
   margin-left: 160px;
@@ -322,3 +322,75 @@ main {
   height: 64px;
 
 }
+ /* Yunus Section Close */
+
+/* Opinion Sec */
+
+
+.opinion-sec {
+  display: flex;
+  margin-left: 160px;
+  margin-right: 160px;
+  flex-direction: column;
+}
+
+
+.opinion-tbl {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.opinion-head-bg {
+  background-color: #C6E4D6;
+}
+
+
+.opinion-title {
+  color: #0d0d0d;
+  font-size: 40px;
+  margin-top: 80px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 3px solid rgba(0, 0, 0, 0.25);
+  height: 92px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+  padding: 0px 20px;
+}
+
+.ag-btn {
+  width: 152px;
+  height: 44px;
+  background-color: rgba(198, 228, 214, 1);
+  border-radius: 4px;
+}
+
+.ag-btn-text {
+  font-size: 16px;
+}
+
+.opinion-tbl-title {
+  font-size: 20px;
+}
+
+.opinion-tbl-body-text {
+  font-size: 16px;
+}
+
+/* --------------------------------------- */
