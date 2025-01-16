@@ -542,6 +542,8 @@ input[type="text"] {
 
 /* Donate Section End */
 
+/* Subs Section Start */
+
 .subs-card-sec {
   display: flex;
   justify-content: center;
@@ -552,8 +554,6 @@ input[type="text"] {
   margin-top: 80px;
   margin-left: 160px;
   margin-right: 160px;
-  
-  
 }
 
 .subs-card-title {
@@ -610,7 +610,10 @@ input[type="email"] {
   text-align: left;
   font-size: 20px;
 }
+/* Subs Section End */
 
+
+/* Footer Section Start */
 footer {
   display: flex;
   flex-direction: column;
@@ -634,4 +637,10 @@ hr {
   padding: 0px;
   gap: 23px;
   display: flex
+}
+/* Footer Section End */
+
+/* Hover Effects */
+.signin-btn:hover, .banner-btn:hover, .vision-card-btn:hover, .ag-btn:hover, .news-card-btn:hover, .donate-card-btn:hover, .subs-btn:hover{
+  background-color: red;
 }
