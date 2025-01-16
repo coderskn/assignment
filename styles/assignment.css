@@ -279,8 +279,9 @@ main {
   background-color: #ffc239;
 }
 
-
  /* Vission Section Close */
+
+
 
  /* Yunus Section Start */
 .yunus-card-sec {
@@ -325,8 +326,9 @@ main {
 }
  /* Yunus Section Close */
 
-/* Opinion Sec */
 
+
+/* Opinion Sec */
 
 .opinion-sec {
   display: flex;
@@ -395,6 +397,8 @@ th {
 }
 
 /* --------------------------------------- */
+
+
 
 /* News Section Start */
 
@@ -504,6 +508,10 @@ th {
   border-radius: 16px;
   background-color: white;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.donate-bg{
+  background-color: #c6e4d6;
 }
 
 .other-amount {
@@ -643,4 +651,7 @@ hr {
 /* Hover Effects */
 .signin-btn:hover, .banner-btn:hover, .vision-card-btn:hover, .ag-btn:hover, .news-card-btn:hover, .donate-card-btn:hover, .subs-btn:hover{
   background-color: red;
+}
+.pillar-card:hover, .vission-card:hover, .yunus-card:hover,.news-card:hover, .donate-card:hover, .subs-card-sec:hover{
+  background-color: rgb(157, 216, 240);
 }
